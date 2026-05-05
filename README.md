@@ -6,9 +6,7 @@
 
 ## 项目内容
 
-- `pages/index/`：微信小程序主页面
-- `index.html`：同体验的 Web 静态原型
-- `one-thought-star-river-miniprogram.zip`：可导入微信开发者工具的小程序包
+- app.wxss双击后，微信开发者工具自动导入，预览小程序
 
 ## 小程序预览
 
