@@ -45,7 +45,7 @@
   },
   "compileType": "miniprogram",
   "libVersion": "3.7.0",
-  "appid": "wx660023d94754c42b",
+  "appid": "project.config.json",
   "projectname": "one-thought-star-river",
   "condition": {},
   "simulatorPluginLibVersion": {},
